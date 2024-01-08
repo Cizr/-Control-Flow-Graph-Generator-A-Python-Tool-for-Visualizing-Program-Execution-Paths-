@@ -10,8 +10,9 @@ This repository contains a Python script designed to generate control flow graph
 
 ## Usage:
 1. Input your source code into the provided Python script.
-2. Run the script to generate the control flow graph.
-3. View and analyze the graph to understand the program's execution flow and decision points.
+2. Adjust the nodes and connections in the script to accurately represent the control flow of your specific program. Note: The provided code example demonstrates the control flow for a simple comparison program and may require modifications for other programs.
+3. Run the script to generate the control flow graph.
+4. View and analyze the graph to understand the program's execution flow and decision points.
 
 ## Contribution:
 Contributions are welcome! If you have suggestions, enhancements, or bug fixes, feel free to submit a pull request.
